@@ -17,3 +17,8 @@ Pour ce projet nous avons réalisé 4 fichiers correspondant 4 parties traitées
 
 4ème partie: fichier -> 10perceptrons.m
 		Ce fichier correspond à la partie multi-classification monocouche des chiffres manuscrits.
+		
+		
+dataset téléchargeable ici: https://drive.google.com/file/d/1YZb9hB7vIt6KakGoFQfk88DU85S6Erw3/view?usp=sharing
+
+Placer le dossier Data et DataSimulation dans la racine du projet.
